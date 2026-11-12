@@ -1,13 +1,13 @@
 {
-  "version": "0.0.24",
+  "version": "0.0.25",
   "files": [
     {
-      "url": "https://github.com/le0li0n/dowithme-dev/releases/download/v0.0.24-arm64/gtm-trainer-0.0.24-arm64.zip",
-      "sha512": "7raqkr8YitdcWHwL75utobpyIgA7tdpoJ6e9njUcJo5RWUpM9EsFNaXTzyvws7ideAgo3Azo2CXbI7Q0tqEGPA==",
-      "size": 135190002
+      "url": "https://github.com/le0li0n/dowithme-dev/releases/download/v0.0.25-arm64/gtm-trainer-0.0.25-arm64.zip",
+      "sha512": "Qlb6GuD/n0eI5yA8OVT8DfMFMDGuNWxJcnTaZU5/bGa6/oPzI0r2zj9ebzkrIfNfgO7MZ4RXPDnK5iJ5066/pA==",
+      "size": 135190120
     }
   ],
-  "path": "https://github.com/le0li0n/dowithme-dev/releases/download/v0.0.24-arm64/gtm-trainer-0.0.24-arm64.zip",
-  "sha512": "7raqkr8YitdcWHwL75utobpyIgA7tdpoJ6e9njUcJo5RWUpM9EsFNaXTzyvws7ideAgo3Azo2CXbI7Q0tqEGPA==",
-  "releaseDate": "2026-11-12T20:48:19.433Z"
+  "path": "https://github.com/le0li0n/dowithme-dev/releases/download/v0.0.25-arm64/gtm-trainer-0.0.25-arm64.zip",
+  "sha512": "Qlb6GuD/n0eI5yA8OVT8DfMFMDGuNWxJcnTaZU5/bGa6/oPzI0r2zj9ebzkrIfNfgO7MZ4RXPDnK5iJ5066/pA==",
+  "releaseDate": "2026-11-12T20:59:31.712Z"
 }
