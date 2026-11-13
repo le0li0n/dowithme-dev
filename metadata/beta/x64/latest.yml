@@ -1,14 +1,14 @@
 {
-  "version": "0.0.26",
+  "version": "0.0.27",
   "files": [
     {
-      "url": "https://github.com/le0li0n/dowithme-dev/releases/download/v0.0.26-windows-x64-beta/gtm-trainer-0.0.26-x64-setup.exe",
-      "sha512": "8Ds4ULgDceZbrsJ1KI6YAJ5u/hTiAoFjU0r9+TrMedsRrhCiisMAkLEEQNvjVorTlvVJuYo3RqIiVC3pb4ZLvg==",
-      "size": 127191757
+      "url": "https://github.com/le0li0n/dowithme-dev/releases/download/v0.0.27-windows-x64-beta/gtm-trainer-0.0.27-x64-setup.exe",
+      "sha512": "3kM7KwfixAM7/00ZAIHgIH+JRMU+TsLKfHDlW3x3WMFUIx2pHddhnw+H9P+51R1Ync5tzEtDff1vKUUULNImIg==",
+      "size": 127192218
     }
   ],
-  "path": "https://github.com/le0li0n/dowithme-dev/releases/download/v0.0.26-windows-x64-beta/gtm-trainer-0.0.26-x64-setup.exe",
-  "sha512": "8Ds4ULgDceZbrsJ1KI6YAJ5u/hTiAoFjU0r9+TrMedsRrhCiisMAkLEEQNvjVorTlvVJuYo3RqIiVC3pb4ZLvg==",
-  "releaseDate": "2026-11-13T00:05:53.520Z",
-  "betaSignature": "U0KMGyQm7rByOxDgltM/ZIA+wAhtvoXq7UjYjtEbTz833clFPmDmJEsE7NhETdv4pdL7gfj4LfLUfbHUQwkNBg=="
+  "path": "https://github.com/le0li0n/dowithme-dev/releases/download/v0.0.27-windows-x64-beta/gtm-trainer-0.0.27-x64-setup.exe",
+  "sha512": "3kM7KwfixAM7/00ZAIHgIH+JRMU+TsLKfHDlW3x3WMFUIx2pHddhnw+H9P+51R1Ync5tzEtDff1vKUUULNImIg==",
+  "releaseDate": "2026-11-13T00:10:43.591Z",
+  "betaSignature": "+QzJybtg+CaiB9cbD/f9WCXsU0z0I+KgHQ3r0eEko0GJvVdFk/wu3l5kZCq5qgOYgUUxaYXTIvFoq6DRc+yaAg=="
 }
